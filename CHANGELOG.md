@@ -10,6 +10,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- Feishu webhook notification on release success
+
 ## [1.2.0] - 2026-01-29
 
 ### Fixed
