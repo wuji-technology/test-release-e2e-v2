@@ -8,6 +8,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- Two-phase release architecture with tag-based triggering
+- Feishu notification integration via centralized auto-release action
+
+### Changed
+- Simplified auto-release-on-pr workflow to only create tags
+- Release notes now generated from CHANGELOG.md
+
 ## [1.0.0] - 2026-01-30
 
 ### Added
